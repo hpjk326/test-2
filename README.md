@@ -12,3 +12,12 @@
 * 
 
 한 줄 짜리 소스코드는 `function add(x,y) { return x + y};` 처럼 사용합니다 . 
+
+```Javascript
+<script>
+  left now = new Date();
+  let display = now.toLocaleTimeString();
+  document.write('현재 시각은 ${display}입니다.');
+</script>
+
+코드입력끝!
