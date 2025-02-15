@@ -1,3 +1,7 @@
+![프로필이미지](./cute)
+
+
+
 # readme
 ---마크다운문법을 사용한다.
 + 그렇다면
@@ -27,3 +31,7 @@
 
 [하루하루 스터디 노트](https://doit-fwd.tistory.com/)
 [하루하루 스터디 노트](https://doit-fwd.tistory.com/,"프런트앤드 개발 팀")
+
+
+
+
