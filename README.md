@@ -10,7 +10,7 @@
   * ___괜찮지___
   * ~아니한가.~
 * 
-
+.,.,.
 한 줄 짜리 소스코드는 `function add(x,y) { return x + y};` 처럼 사용합니다 . 
 
 ```Javascript
